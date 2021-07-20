@@ -1,0 +1,33 @@
+
+ #Etapas concluidas do bootcamp java everis
+
+ Boas-vindas ao Bootcamp everis New Talents Java.
+ Bem-vindo à DIO.
+ Lógica de Programação Essencial.
+ Aprendendo o que são Estrutura de Dados e Algorítimos.
+ Introdução ao Git e ao GuitHub.
+ SQL SERVE - Criando suas primeiras consultas.
+ Primeiro repositórios (DESAFIO).
+
+#Loading...
+Dominando IDEs Java.
+Desenvolvimento básico em Java.
+Introdução a orientação a objetos com Java.
+Estrutura de dados em Java.
+Primeiros passos em Java.
+Fundamentos de Arquitetura de Sistemas.
+Arquitetura de Sistemas Avançado.
+Introdução ao framework Spring Boot.
+Trabalhando com Banco de Dados Utilizando JDBC e JPA.
+Microsserviçoes em Spring Cloud com Java.
+Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot.
+Desafios matemáticos em Java.
+Introdução a Qualidade de Software.
+Aprenda a aplica testes com Java.
+Introducao ao Junit 5.
+Desenvolvimento de testes unitários para validar uma API REST de gerenciamento estoque de cerveja.
+Resolvendo desafios em Java.
+
+
+Total = 88 hras
+Concluidas = 18 hras
