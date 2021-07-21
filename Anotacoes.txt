@@ -8,10 +8,11 @@
  Introdução ao Git e ao GuitHub.
  SQL SERVE - Criando suas primeiras consultas.
  Primeiro repositórios (DESAFIO).
+ Dominando IDEs Java.
 
 #Loading...
-Dominando IDEs Java.
-Desenvolvimento básico em Java.
+
+Desenvolvimento básic\o em Java.
 Introdução a orientação a objetos com Java.
 Estrutura de dados em Java.
 Primeiros passos em Java.
@@ -30,4 +31,4 @@ Resolvendo desafios em Java.
 
 
 Total = 88 hras
-Concluidas = 18 hras
+Concluidas = 22 hras
