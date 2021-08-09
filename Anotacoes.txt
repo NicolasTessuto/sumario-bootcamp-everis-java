@@ -9,10 +9,10 @@
  SQL SERVE - Criando suas primeiras consultas.
  Primeiro repositórios (DESAFIO).
  Dominando IDEs Java.
+ Desenvolvimento básico em Java.
 
 #Loading...
 
-Desenvolvimento básic\o em Java.
 Introdução a orientação a objetos com Java.
 Estrutura de dados em Java.
 Primeiros passos em Java.
@@ -31,4 +31,4 @@ Resolvendo desafios em Java.
 
 
 Total = 88 hras
-Concluidas = 22 hras
+Concluidas = 31 hras
