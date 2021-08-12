@@ -10,10 +10,10 @@
  Primeiro repositórios (DESAFIO).
  Dominando IDEs Java.
  Desenvolvimento básico em Java.
+ Introdução a orientação a objetos com Java.
 
 #Loading...
 
-Introdução a orientação a objetos com Java.
 Estrutura de dados em Java.
 Primeiros passos em Java.
 Fundamentos de Arquitetura de Sistemas.
@@ -31,4 +31,4 @@ Resolvendo desafios em Java.
 
 
 Total = 88 hras
-Concluidas = 31 hras
+Concluidas = 33 hras
